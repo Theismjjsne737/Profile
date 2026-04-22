@@ -1,6 +1,3 @@
-# About Me:
-I am a female coder, who has experiences
-wide varieties of coding lnaguages and just learning the basics.
 
 💻 # Coding experience:
 I started out with small coding workshops as a kid, and then progressed
